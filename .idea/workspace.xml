@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cada61ce-03be-4ab4-8a81-c56f2c7484bc" name="Default" comment="添加了日志功能">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="cada61ce-03be-4ab4-8a81-c56f2c7484bc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-boot-start.iml" afterPath="$PROJECT_DIR$/.idea/modules/spring-boot-start.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-boot-start_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/spring-boot-start_main.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-boot-start_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/spring-boot-start_test.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/sedin/self/test/HelloWorld.class" afterPath="$PROJECT_DIR$/build/classes/java/main/com/sedin/self/test/HelloWorld.class" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/sedin/self/test/Person.class" afterPath="$PROJECT_DIR$/build/classes/java/main/com/sedin/self/test/Person.class" />
@@ -922,7 +912,7 @@
       <updated>1513779434170</updated>
       <workItem from="1513779439304" duration="4366000" />
       <workItem from="1513822161969" duration="2512000" />
-      <workItem from="1513824682878" duration="14655000" />
+      <workItem from="1513824682878" duration="14672000" />
     </task>
     <task id="LOCAL-00001" summary="添加了日志功能">
       <created>1513846887548</created>
@@ -952,11 +942,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513935610969</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加了日志功能">
+      <created>1513935695959</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1513935695959</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21533000" />
+    <option name="totallyTimeSpent" value="21550000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
