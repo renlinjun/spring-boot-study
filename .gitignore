@@ -1,0 +1,8 @@
+.idea
+.classes
+.gradle
+spring-boot-start/build
+spring-boot-start/bin
+spring-boot-start/out
+spring-boot-start/.classpath
+gradle
