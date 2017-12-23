@@ -1,9 +1,7 @@
 package com.sedin.self.test;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
@@ -28,6 +26,7 @@ public class HelloWorld {
     }
 
     public static void main(String[] args) throws Exception {
+        System.out.println("提交一下");
         SpringApplication.run(HelloWorld.class, args);
     }
 }
