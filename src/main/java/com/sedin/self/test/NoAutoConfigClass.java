@@ -12,4 +12,5 @@ public class NoAutoConfigClass {
     public void getMsg() {
         System.out.println("我很好");
     }
+
 }
