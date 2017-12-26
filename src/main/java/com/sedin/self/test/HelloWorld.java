@@ -4,9 +4,9 @@ package com.sedin.self.test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.Banner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.ConfigurableApplicationContext;
 
 /**
  * 作者：REN
@@ -38,6 +38,12 @@ public class HelloWorld {
 
     public static void main(String[] args) throws Exception {
         log.info("hello world=============");
-        ConfigurableApplicationContext run = SpringApplication.run(HelloWorld.class, args);
+        //关闭默认在信息前打印的东西
+        //也可以自定义显示的东西
+        SpringApplication app = new SpringApplication(HelloWorld.class);
+        app.setBannerMode(Banner.Mode.OFF);
+        app.run(args);
+        //ConfigurableApplicationContext run = SpringApplication.run(HelloWorld.class);
+
     }
 }
