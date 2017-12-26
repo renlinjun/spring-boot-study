@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cada61ce-03be-4ab4-8a81-c56f2c7484bc" name="Default" comment="看看提交以后什么状态">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sedin/self/test/MyApplicationArguments.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sedin/self/test/MyApplicationRunner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sedin/self/test/MyDisposableBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sedin/self/test/TestRunner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sedin/self/test/myCommandLineRunner.java" />
+    <list default="true" id="cada61ce-03be-4ab4-8a81-c56f2c7484bc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3-rc-1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.3-rc-1/fileContent/fileContent.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3-rc-1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.3-rc-1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3-rc-1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.3-rc-1/fileHashes/fileHashes.lock" />
@@ -20,10 +15,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/com/sedin/self/test/PersonController.class" afterPath="$PROJECT_DIR$/out/production/classes/com/sedin/self/test/PersonController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/sedin/self/test/HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/com/sedin/self/test/HelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -915,7 +906,7 @@
       <option name="presentableId" value="Default" />
       <updated>1513779434170</updated>
       <workItem from="1513779439304" duration="4366000" />
-      <workItem from="1514294915890" duration="4054000" />
+      <workItem from="1514294915890" duration="4080000" />
     </task>
     <task id="LOCAL-00001" summary="看看提交以后什么状态">
       <created>1514087005952</created>
@@ -924,11 +915,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514087005952</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="看看提交以后什么状态">
+      <created>1514299069147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514299069147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33526000" />
+    <option name="totallyTimeSpent" value="33552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
