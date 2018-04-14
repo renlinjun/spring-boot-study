@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-start.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-start.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-start_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-start_main.iml" group="spring-boot-start" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-start_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-start_test.iml" group="spring-boot-start" />
     </modules>
   </component>
 </project>
